@@ -1,0 +1,38 @@
+[
+    {
+        "cod": "A23",
+        "name": "water 0.5L",
+        "amount": 8,
+        "price": 0.70
+    },
+    {
+        "cod": "B10",
+        "name": "coffee",
+        "amount": 12,
+        "price": 0.50
+    },
+    {
+        "cod": "C05",
+        "name": "chips",
+        "amount": 6,
+        "price": 1.20
+    },
+    {
+        "cod": "D99",
+        "name": "cola",
+        "amount": 10,
+        "price": 1.50
+    },
+    {
+        "cod": "E12",
+        "name": "chocolate bar",
+        "amount": 9,
+        "price": 1.10
+    },
+    {
+        "cod": "F07",
+        "name": "sandwich",
+        "amount": 4,
+        "price": 2.40
+    }
+]
