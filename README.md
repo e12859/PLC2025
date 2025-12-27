@@ -1,4 +1,4 @@
-Tittle: TPC Exercices
-Author: Pablo Barrero
-Sumary: 4 exercices from the subject of PLC
-Result Files: .py files
+**Title:** TPC Exercises  
+**Author:** Pablo Barrero  
+**Summary:** 4 exercises from the PLC course.  
+**Result Files:** `.py` files
